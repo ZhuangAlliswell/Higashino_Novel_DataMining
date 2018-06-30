@@ -1,0 +1,7 @@
+[书籍]_红手指1     https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F6794021%2F&amp;query=%E7%BA%A2%E6%89%8B%E6%8C%87&amp;cat_id=1001&amp;type=search&amp;pos=0
+[书籍]_红手指2     https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F26651926%2F&amp;query=%E7%BA%A2%E6%89%8B%E6%8C%87&amp;cat_id=1001&amp;type=search&amp;pos=1
+[书籍]_红手指3     https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F3677214%2F&amp;query=%E7%BA%A2%E6%89%8B%E6%8C%87&amp;cat_id=1001&amp;type=search&amp;pos=2
+==========================
+==========================
+[电影]_红手指1     https://www.douban.com/link2/?url=https%3A%2F%2Fmovie.douban.com%2Fsubject%2F5386987%2F&amp;query=%E7%BA%A2%E6%89%8B%E6%8C%87&amp;cat_id=1002&amp;type=search&amp;pos=3
+==========================

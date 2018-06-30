@@ -1,0 +1,26 @@
+原文: 第五章  预知梦之少女篇  positive_prob: 0.494610  confidence: 0.892199  negative_prob: 0.505390  sentiment: 1.000000  
+ 原文:     1  positive_prob: 0.458396  confidence: 0.167930  negative_prob: 0.541604  sentiment: 1.000000  
+ 原文:     餐桌上摆着以海鲜为主的料理。静子很少做荤菜，因为她不喜欢吃肉。峰村英和带来了清淡的白葡萄酒，他知道她喜欢这样的口味。直树对他这一点很是欣赏，他总能考虑到细节，而且处事灵活。直树有时甚至觉得，他当技术人员都有些可惜。  positive_prob: 0.931224  confidence: 0.847165  negative_prob: 0.068776  sentiment: 2.000000  
+ 原文:     “Surlie这种葡萄酒是用早收的葡萄酿成的，味道有些淡。说实话，对葡萄酒我了解得也不多。”峰村解释着自己带来的自葡萄酒。可以看出，他在尽量让自己的讲解不那么乏味。  positive_prob: 0.484852  confidence: 0.697030  negative_prob: 0.515148  sentiment: 1.000000  
+ 原文:     “说得真像那么回事。味道很清淡，很好喝，对吧？”静子一只手拿着玻璃杯，看着直树。  positive_prob: 0.619738  confidence: 0.154973  negative_prob: 0.380262  sentiment: 2.000000  
+ 原文:     “嗯。”他点点头。其实他并不懂葡萄酒的区别，他喜欢的是日本酒。  positive_prob: 0.794410  confidence: 0.543134  negative_prob: 0.205590  sentiment: 2.000000  
+ 原文:     峰村和直树是大学同学  两人同在帆船队，峰村比直树低三届，但是他们院系不同，直树是经济学院的，峰村是工学院的。那时他们的关系并不是特别亲密，尽管同在帆船队，但也不过是在运动会上打打交道，学长和学弟之间有一道看不见的墙。  positive_prob: 0.830359  confidence: 0.623021  negative_prob: 0.169641  sentiment: 2.000000  
+ 原文:     他们开始频繁交往是峰村进入直树所在的公司工作之后。直树在宣传部，峰村在产品开发部，两人在工作上交往比较少，但他们有共同的爱好——帆船。直树毕业后有了自己的帆船，每年都要和朋友们出海几次，对他来说，有峰村这样一个可以信赖的帮手还是很濡意的。  positive_prob: 0.976769  confidence: 0.948375  negative_prob: 0.023231  sentiment: 2.000000  
+ 原文:     一晃十多年过去了，两人还是保持着这种关系。每次出海前几天，峰村都会到直树家来，和他商量出海的事。今晚他来这里也是由于这个原因。另外直树还会顺便请他吃妻子做的料理，也算是对他的一种犒劳。  positive_prob: 0.987330  confidence: 0.971844  negative_prob: 0.012670  sentiment: 2.000000  
+ 原文:     就在峰村带来的葡萄酒快要见底时，客厅橱柜上的手机响了。  positive_prob: 0.283508  confidence: 0.369982  negative_prob: 0.716492  sentiment: 0.000000  
+ 原文:     “啊，是菅原的电话在响。”峰村说。  positive_prob: 0.448431  confidence: 0.003486  negative_prob: 0.551569  sentiment: 0.000000  
+ 原文:     “这么晚了，有什么事呢？”  positive_prob: 0.393051  confidence: 0.126553  negative_prob: 0.606949  sentiment: 0.000000  
+ 原文:     直树站了起来，但他并投有急着去接电话，他心中有种不祥的预感。他开始后悔自己为什么那么笨，没有事先把电源关掉。  positive_prob: 0.043108  confidence: 0.904204  negative_prob: 0.956892  sentiment: 0.000000  
+ 原文:     电话不停地响着。如果不接电话，就会引起峰村和静子的怀疑，没办法，他接通了电话：“喂，你好。”  positive_prob: 0.035441  confidence: 0.921241  negative_prob: 0.964559  sentiment: 0.000000  
+ 原文:     那头传来喘气的声音，“是我。”一个女人说。这个声音他相当熟悉。  positive_prob: 0.371803  confidence: 0.173771  negative_prob: 0.628197  sentiment: 0.000000  
+ 原文:     “啊……你好。”  positive_prob: 0.440523  confidence: 0.021060  negative_prob: 0.559477  sentiment: 0.000000  
+ 原文:     刚才不祥的预感，果然应验了。直树背对着坐在餐桌旁的那两个人。  positive_prob: 0.596380  confidence: 0.103067  negative_prob: 0.403620  sentiment: 2.000000  
+ 原文:     “你在哪里？”电话里的女人说。  positive_prob: 0.372277  confidence: 0.172717  negative_prob: 0.627723  sentiment: 0.000000  
+ 原文:     “我家里来客人了，一会儿再给你打过去。”  positive_prob: 0.301471  confidence: 0.330065  negative_prob: 0.698529  sentiment: 0.000000  
+ 原文:     她对直树的演技付之一笑：“你是在家里吧？”  positive_prob: 0.296084  confidence: 0.342035  negative_prob: 0.703916  sentiment: 0.000000  
+ 原文:     “嗯，对。所以，我一会儿再给你打过去。真不好意思。”他很快说完，准备挂电话。  positive_prob: 0.591189  confidence: 0.091530  negative_prob: 0.408811  sentiment: 2.000000  
+ 原文:     “不许挂！你要是挂了，我还会一直打。关机也没用，我会往你家里打，反正我知道你家的电话号码。”  positive_prob: 0.185360  confidence: 0.588088  negative_prob: 0.814640  sentiment: 0.000000  
+ 原文:     直树感到浑身发热，这个女人这次的态度和以往明显不同。  positive_prob: 0.319713  confidence: 0.289526  negative_prob: 0.680287  sentiment: 0.000000  
+ 原文:     “好，我知道了，你先我等一下。”  positive_prob: 0.612616  confidence: 0.139147  negative_prob: 0.387384  sentiment: 2.000000  
+ 原文:     直树把手机贴在耳边，推门来到走廊里，他没看峰村和静子的反应，因为他不知道该以怎样的表情面对他们。  positive_prob: 0.097964  confidence: 0.782302  negative_prob: 0.902036  sentiment: 0.000000  
+ 
